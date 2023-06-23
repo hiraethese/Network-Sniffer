@@ -1,0 +1,19 @@
+- Changed timestamp function and minor changes
+- Minor changes
+- Added IPv6 and changed filter
+- Added ICMP and UDP protocols to packet handler function
+- Added working Makefile
+- Added print packet content function
+- Partially added IPv4 packet information
+- Minor changes and added signal handler
+- Added src MAC and dst MAC, changed the number of packets to 1
+- Added packet looping function and print packet information function
+- Added packet filter basis, simple tcp protocol filtering
+- Created basis for sniffering, takes only one packet and writes out its length
+- Minor changes, added parse_args() function
+- Added print_timestamp() function that outputs current time in the required format
+- Added print_interfaces() function that outputs all available interfaces
+- Added argument parsing with getopt_long() function
+- Added initialization of all values and no parameters test
+- Added print usage function, changed libraries
+- Initial commit
